@@ -13,4 +13,4 @@ This is a simple PDA application for a pizzeria written in Python.
 * Lists
   
 # 4. Author
-NiMisa179
+Nikos Misailidis
