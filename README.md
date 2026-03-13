@@ -104,5 +104,5 @@ Some future improvements I keep in mind are:
 * Re-write the program using object-oriented programming
   
 # 8. Author
-Nikos Misailidis "\n"
+Nikos Misailidis 
 GitHub: https://github.com/NiMisa179
