@@ -23,10 +23,12 @@ This is a simple PDA application for a pizzeria written in Python. The user migh
    python pizzeria_PDA.py
 
 # 5. Structure
+``` text
 PDA-pizzeria/    
 
 ├── foodMenu.py         # Main program
 └── README.md           # Project Documentation
+``` 
 
 # 6. Example Output
 
