@@ -31,7 +31,7 @@ PDA-pizzeria/
 # 6. Example Output
 
 # * * * * * * Menu * * * * * *
-----------------------------
+# ----------------------------
 1  Margherita          6.5       
 2  Farm House          6         
 3  Peppy Paneer        7.5       
@@ -42,7 +42,7 @@ PDA-pizzeria/
 8  Fresh Veggie        5.5       
 9  Veggie Paradise     6.5       
 10 Special             9         
-----------------------------
+# ----------------------------
 Would you like to place an order? yes/no: yes
 Place your order, Pick a number to choose a pizza and after that type the quantity of that product.
 If you like to stop, type -1
@@ -50,49 +50,49 @@ Press 0 to modify your order
 Choose a number between 1 and 10: 1
 Type the quantity of that product: 2
 2  Margherita          13.0      
-----------------------------
+# ----------------------------
 13.0
 Choose a number between 1 and 10: 7
 Type the quantity of that product: 1
 2  Margherita          13.0      
 1  Cheese n Corn       5         
-----------------------------
+# ----------------------------
 18.0
 Choose a number between 1 and 10: 0
 2  Margherita          13.0      
 1  Cheese n Corn       5         
-----------------------------
+# ----------------------------
 18.0
 Which row would you like to modify? 1
 Type the new quantity: 1
 1  Margherita          6.5       
 1  Cheese n Corn       5         
-----------------------------
+# ----------------------------
 11.5
 Choose a number between 1 and 10: 0
 1  Margherita          6.5       
 1  Cheese n Corn       5         
-----------------------------
+# ----------------------------
 11.5
 Which row would you like to modify? 2
 Type the new quantity: 0
 1  Margherita          6.5       
-----------------------------
+# ----------------------------
 6.5
 Choose a number between 1 and 10: 10
 Type the quantity of that product: 2
 1  Margherita          6.5       
 2  Special             18        
-----------------------------
+# ----------------------------
 24.5
 Choose a number between 1 and 10: -1
 1  Margherita          6.5       
 2  Special             18        
-----------------------------
+# ----------------------------
 24.5
 1  Margherita          6.5       
 2  Special             18        
-----------------------------
+# ----------------------------
 Checkout:              24.5
 
 Process finished with exit code 0
