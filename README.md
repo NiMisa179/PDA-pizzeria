@@ -30,7 +30,7 @@ PDA-pizzeria/
 
 # 6. Example Output
 
-* * * * * * Menu * * * * * *
+# * * * * * * Menu * * * * * *
 ----------------------------
 1  Margherita          6.5       
 2  Farm House          6         
