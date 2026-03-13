@@ -1,8 +1,16 @@
-# PDA-pizzeria
 # 1. Description
-This is a simple PDA programm for a pizzeria. It has a simple built-in menu, that can be modified, and it is easy to use.
-The first thing the user will see is the menu of the pizzeria, the price of each item in the menu and its own id.
-If the user would like to add a pizza type in the order, they have to type the id.
-Right after that, the user should type the quantity of pizzas.
-If the user would like to modify the order, they have to type 0.
-Eventually, when the waiter is finished, they type -1 to stop the proccess of ordering.
+## PDA pizzeria
+This is a simple PDA application for a pizzeria written in Python. 
+
+# 2. Features
+* The application has a simple built-in menu of a pizzeria.
+* Processes data using Python lists
+* Displays the current state of the order, after each modification of it
+* Print the ordrer 's receipt
+
+# 3. Technologies
+* Python3
+* Lists
+  
+# 4. Author
+NiMisa179
